@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #apache_parsing_vulnerability
-https://github.com/vulhub/vulhub/httpd/apache_parsing_vulnerability
+httpd/apache_parsing_vulnerability
